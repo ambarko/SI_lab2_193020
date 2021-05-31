@@ -3,3 +3,4 @@
 ### Група на код:
 Ја добив групата на код
 ### Control flow graph
+https://github.com/ambarko/SI_lab2_193020/issues/1
