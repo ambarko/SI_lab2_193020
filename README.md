@@ -1,6 +1,4 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Мартин Амбарков, бр. на индекс 193020
-### Група на код:
-Ја добив групата на код
 ### Control flow graph
-https://github.com/ambarko/SI_lab2_193020/issues/1
+![Screenshot 2021-05-31 214020](https://user-images.githubusercontent.com/82344984/120235464-5bec7380-c25a-11eb-9a73-a8e5d3fb0f8e.png)
